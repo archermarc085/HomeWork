@@ -131,9 +131,9 @@ namespace Task2
             int j = 0;
             int count = 0;
 
-            for (i = 0; i < 32; i++)
+            for (i = 0; i < 16; i++)
             {
-                for (j = 0; j < 33; j++)
+                for (j = 0; j < 32; j++)
                 {
                     if (4 * i + 2 * j == 64)
                     {
